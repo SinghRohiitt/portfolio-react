@@ -1,0 +1,51 @@
+{
+  "projects": [
+ 
+
+    {
+      "date": "23s/08/2023",
+      "title": "VIDEO GALLERY",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "http://localhost:3001/",
+      "imgSrc": "https://www.masterburn.sk/EN/data/video-icon-EN.png"
+    },
+    {
+      "date": "15/08/2023",
+      "title": "Money Ball-Currency App",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "http://localhost:3002",
+      "imgSrc": "https://tse4.mm.bing.net/th?id=OIP.UdBhNnKkwrvC1wQfNLigWgHaFj&pid=Api&P=0&h=180"
+    },
+
+    {
+      "date": "05/07/2023",
+      "title": "Dinosaur-Game",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://tse2.mm.bing.net/th?id=OIP.GHhdUeaa-WQH_gzKOFE0lAHaEK&pid=Api&P=0&h=180"
+    },
+    {
+      "date": "15/06/2023",
+      "title": "Rock Paper Siccissor Game",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://tse2.mm.bing.net/th?id=OIP.AMDPphruKCe3ho-D1ZkqSAHaFj&pid=Api&P=0&h=180"
+    },
+    
+    {
+      "date": "01/06/2023",
+      "title": "AIR",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "http://127.0.0.1:5501/index.html",
+      "imgSrc": "https://cdna.lystit.com/photos/2013/08/07/nike-blackvarsity-redwhite-sweet-classic-leather-high-top-sneakers-product-1-10346662-141973395.jpeg"
+    },
+    {
+      "date": "09/05/2023",
+      "title": "WeatherApp",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "http://127.0.0.1:5502/index.html",
+      "imgSrc": "https://tse3.mm.bing.net/th?id=OIP.a9sYdMiQTfD-Y1CTl9_CCQHaHa&pid=Api&P=0&h=180"
+    }
+   
+  ]
+}
